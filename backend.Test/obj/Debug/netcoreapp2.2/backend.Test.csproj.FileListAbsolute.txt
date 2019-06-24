@@ -1,0 +1,17 @@
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\backend.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\backend.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\backend.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\backend.Test\bin\Debug\netcoreapp2.2\backend.Test.deps.json
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\backend.Test\bin\Debug\netcoreapp2.2\backend.Test.runtimeconfig.json
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\backend.Test\bin\Debug\netcoreapp2.2\backend.Test.runtimeconfig.dev.json
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\backend.Test\bin\Debug\netcoreapp2.2\backend.Test.dll
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\backend.Test\bin\Debug\netcoreapp2.2\backend.Test.pdb
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\backend.Test\bin\Debug\netcoreapp2.2\agendamed_backend.dll
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\backend.Test\bin\Debug\netcoreapp2.2\agendamed_backend.pdb
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\backend.Test\obj\Debug\netcoreapp2.2\backend.Test.csprojAssemblyReference.cache
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\backend.Test\obj\Debug\netcoreapp2.2\backend.Test.csproj.CoreCompileInputs.cache
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\backend.Test\obj\Debug\netcoreapp2.2\backend.Test.AssemblyInfoInputs.cache
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\backend.Test\obj\Debug\netcoreapp2.2\backend.Test.AssemblyInfo.cs
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\backend.Test\obj\Debug\netcoreapp2.2\backend.Test.csproj.CopyComplete
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\backend.Test\obj\Debug\netcoreapp2.2\backend.Test.dll
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\backend.Test\obj\Debug\netcoreapp2.2\backend.Test.pdb

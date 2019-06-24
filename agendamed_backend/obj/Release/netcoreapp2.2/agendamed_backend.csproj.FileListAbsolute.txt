@@ -1,0 +1,14 @@
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\agendamed_backend\bin\Release\netcoreapp2.2\agendamed_backend.deps.json
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\agendamed_backend\bin\Release\netcoreapp2.2\agendamed_backend.runtimeconfig.json
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\agendamed_backend\bin\Release\netcoreapp2.2\agendamed_backend.runtimeconfig.dev.json
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\agendamed_backend\bin\Release\netcoreapp2.2\agendamed_backend.dll
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\agendamed_backend\bin\Release\netcoreapp2.2\agendamed_backend.pdb
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\agendamed_backend\obj\Release\netcoreapp2.2\agendamed_backend.csprojAssemblyReference.cache
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\agendamed_backend\obj\Release\netcoreapp2.2\agendamed_backend.csproj.CoreCompileInputs.cache
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\agendamed_backend\obj\Release\netcoreapp2.2\agendamed_backend.RazorAssemblyInfo.cache
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\agendamed_backend\obj\Release\netcoreapp2.2\agendamed_backend.RazorAssemblyInfo.cs
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\agendamed_backend\obj\Release\netcoreapp2.2\agendamed_backend.AssemblyInfoInputs.cache
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\agendamed_backend\obj\Release\netcoreapp2.2\agendamed_backend.AssemblyInfo.cs
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\agendamed_backend\obj\Release\netcoreapp2.2\agendamed_backend.RazorTargetAssemblyInfo.cache
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\agendamed_backend\obj\Release\netcoreapp2.2\agendamed_backend.dll
+C:\Users\ribeiro\OneDrive\Externo\ITIX\agendamed_backend\agendamed_backend\obj\Release\netcoreapp2.2\agendamed_backend.pdb
